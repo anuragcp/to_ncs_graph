@@ -1,0 +1,1 @@
+mvNCCompile TF_Model/tf_model.meta -in= <input_node_name> -on= <output_node_name>
